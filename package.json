@@ -1,7 +1,7 @@
 {
-  "name": "sd-0x-block8-project-js-unit-tests",
+  "name": "jest-unit-tests",
   "version": "1.0.0",
-  "description": "Project for block 8",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/betrybe/ssd-0x-block8-project-js-unit-test.git"
+    "url": ""
   },
   "keywords": [
     "javascript",
@@ -22,10 +22,6 @@
   ],
   "author": "Jean Vasconcelos",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/betrybe/sd-0x-block8-project-js-unit-test/issues"
-  },
-  "homepage": "https://github.com/betrybe/sd-0x-block8-project-js-unit-test#readme",
   "devDependencies": {
     "eslint-config-trybe-fundamentals": "1.1.1",
     "jest": "24.9.0"
